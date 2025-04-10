@@ -36,6 +36,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "CC Demo Dev",
+    "url": "https://ccdemodev.styletech.co.uk/",
+    "icon": "https://icons.duckduckgo.com/ip3/ccdemodev.styletech.co.uk.ico",
+    "slug": "cc-demo-dev",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Tio",
     "url": "https://logbook.tiofiresafety.com/Account/Register",
     "icon": "https://icons.duckduckgo.com/ip3/logbook.tiofiresafety.com.ico",
@@ -46,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1442,
-    "timeDay": 1442,
-    "timeWeek": 1442,
-    "timeMonth": 1442,
-    "timeYear": 1442,
+    "time": 1510,
+    "timeDay": 1510,
+    "timeWeek": 1510,
+    "timeMonth": 1510,
+    "timeYear": 1510,
     "dailyMinutesDown": {}
   }
 ]
