@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ccdemodev.styletech.co.uk.ico",
     "slug": "cc-demo-dev",
     "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
-    "time": 402,
-    "timeDay": 402,
-    "timeWeek": 402,
-    "timeMonth": 402,
-    "timeYear": 402,
+    "uptime": "86.01%",
+    "uptimeDay": "86.01%",
+    "uptimeWeek": "86.01%",
+    "uptimeMonth": "86.01%",
+    "uptimeYear": "86.01%",
+    "time": 623,
+    "timeDay": 623,
+    "timeWeek": 623,
+    "timeMonth": 623,
+    "timeYear": 623,
     "dailyMinutesDown": {
-      "2025-04-10": 0
+      "2025-04-10": 5
     }
   },
   {
