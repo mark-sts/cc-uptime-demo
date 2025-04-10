@@ -11,6 +11,10 @@ sites:
     url: https://www.citizencoin.uk
     assignees:
       - mark-sts
+  - name: CC Demo Dev
+    url: https://ccdemodev.styletech.co.uk/
+    assignees:
+      - mark-sts
   - name: Tio
     url: https://logbook.tiofiresafety.com/Account/Register
     assignees:
