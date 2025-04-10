@@ -1,5 +1,23 @@
 [
   {
+    "name": "STS",
+    "url": "https://www.styletech.co.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/www.styletech.co.uk.ico",
+    "slug": "sts",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 765,
+    "timeDay": 765,
+    "timeWeek": 765,
+    "timeMonth": 765,
+    "timeYear": 765,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "CC",
     "url": "https://www.citizencoin.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.citizencoin.uk.ico",
@@ -10,11 +28,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 417,
-    "timeDay": 417,
-    "timeWeek": 417,
-    "timeMonth": 417,
-    "timeYear": 417,
+    "time": 557,
+    "timeDay": 557,
+    "timeWeek": 557,
+    "timeMonth": 557,
+    "timeYear": 557,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Tio",
+    "url": "https://logbook.tiofiresafety.com/Account/Register",
+    "icon": "https://icons.duckduckgo.com/ip3/logbook.tiofiresafety.com.ico",
+    "slug": "tio",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 893,
+    "timeDay": 893,
+    "timeWeek": 893,
+    "timeMonth": 893,
+    "timeYear": 893,
     "dailyMinutesDown": {}
   }
 ]
