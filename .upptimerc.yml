@@ -3,8 +3,12 @@ owner: mark-sts # Your GitHub organization or username, where this repository li
 repo: cc-uptime-demo # The name of this repository
 
 sites:
+  - name: STS
+    url: https://www.styletech.co.uk
   - name: CC
     url: https://www.citizencoin.uk
+  - name: Tio
+    url: https://logbook.tiofiresafety.com/Account/Register
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
