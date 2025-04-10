@@ -5,10 +5,16 @@ repo: cc-uptime-demo # The name of this repository
 sites:
   - name: STS
     url: https://www.styletech.co.uk
+    assignees:
+      - mark-sts
   - name: CC
     url: https://www.citizencoin.uk
+    assignees:
+      - mark-sts
   - name: Tio
     url: https://logbook.tiofiresafety.com/Account/Register
+    assignees:
+      - mark-sts
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
