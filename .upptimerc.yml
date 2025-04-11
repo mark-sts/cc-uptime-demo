@@ -11,10 +11,6 @@ sites:
     url: https://www.citizencoin.uk
     assignees:
       - mark-sts
-  - name: Tio
-    url: https://logbook.tiofiresafety.com/Account/Register
-    assignees:
-      - mark-sts
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
