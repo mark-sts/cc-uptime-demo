@@ -22,19 +22,19 @@
     "url": "https://www.citizencoin.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.citizencoin.uk.ico",
     "slug": "cc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 599,
-    "timeDay": 469,
-    "timeWeek": 591,
-    "timeMonth": 627,
-    "timeYear": 599,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 594,
+    "timeDay": 432,
+    "timeWeek": 566,
+    "timeMonth": 619,
+    "timeYear": 594,
     "dailyMinutesDown": {
-      "2025-05-14": 0
+      "2025-05-14": 18
     }
   }
 ]
